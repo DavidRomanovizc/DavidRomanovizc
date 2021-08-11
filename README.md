@@ -33,7 +33,7 @@ class Stack:
     other: tuple = "web skills"
 
 ```
-<br />
+
 
 
 <img align="left" alt="Cpp" width="26px" src="https://image.flaticon.com/icons/png/512/919/919841.png" />
