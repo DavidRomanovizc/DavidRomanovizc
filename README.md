@@ -1,15 +1,18 @@
 ### Hi there 👋, I'm David
 
 <br />
+
 ## I'm a Junior Developer
-<br />
- 💪 I like to write code
- 🎉 I learning English lang, French and Russian
- ⚡ I am constantly learning new things
- 👑 Recently i started learn algorithm
- 🤙 I quite love travelling 
+
+ - 💪 I like to write code
+ - 🎉 I learning English lang, French and Russian
+ - ⚡ I am constantly learning new things
+ - 👑 Recently i started learn algorithm
+ - 🤙 I quite love travelling 
 
 <br />
+
+
 ### 📱 Connect with me:
 
 [<img align="left" alt="David | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
