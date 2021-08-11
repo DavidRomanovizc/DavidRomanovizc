@@ -22,8 +22,8 @@
 
 <br />
 
-### Activity
-![Activity](https://img.shields.io/aur/last-modified/Activity?color=Blue&logoColor=Blue&style=flat-square)
+### 🎧 Activity
+![Activity](https://img.shields.io/aur/last-modified/Activity?color=Blue&logoColor=Blue&style=flat-square?username=DavidRomanovizc)
 
 <br />
 
