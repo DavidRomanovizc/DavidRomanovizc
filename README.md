@@ -6,7 +6,7 @@
 - 🎉 I love learning languages and walking
 - ⚡ I am constantly learning new things
 
-### Connect with me:
+### 📱 Connect with me:
 
 [<img align="left" alt="David | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
 [<img align="left" alt="David | VK" width="22px" src="https://image.flaticon.com/icons/png/512/145/145813.png" />][vk]
@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Cpp" width="26px" src="https://image.flaticon.com/icons/png/512/919/919841.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -30,15 +30,16 @@
 <br />
 <br />
 
-### Donations
+### 💰 Donations
 - You can use this picture for donation
 [<img align="left" alt="Donat | Donat" width="22px" src="https://image.flaticon.com/icons/png/512/3815/3815861.png" />][Donat]
 
 <br />
 <br />
 
-### My GitHub Stats
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidRomanovizc&repo=github-readme-stats)
+
+### 📈 My GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidRomanovizc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRomanovizc)
 
