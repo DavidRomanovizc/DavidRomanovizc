@@ -54,6 +54,8 @@ class Stack:
 <img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/png/512/919/919852.png" />
 <img align="left" alt="Docker" width="26px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/1431/1431526.png" />
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" />
+
 
 
 <br />
