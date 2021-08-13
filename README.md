@@ -63,7 +63,7 @@ class Stack:
 
 ### 💰 Donations
 - You can use this picture for donation
-[<img align="left" alt="Donat | Donat" width="22px" src="https://image.flaticon.com/icons/png/512/3815/3815861.png" />][Donat]
+[<img align="left" alt="Donat | Donat" width="22px" src="https://image.flaticon.com/icons/png/512/1048/1048384.png" />][Donat]
 
 <br />
 <br />
