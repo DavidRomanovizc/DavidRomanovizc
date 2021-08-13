@@ -73,6 +73,8 @@ class Stack:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidRomanovizc&show_icons=true&theme=radical)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRomanovizc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRomanovizc&layout=compact)
+
 
 
 [instagram]: https://www.instagram.com/david_romanowicz/
