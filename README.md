@@ -5,7 +5,7 @@
 ## I'm a Junior Developer
 
  - 💪 I like to write code
- - 🎉 I learning English lang, French and Russian
+ - 🎉 I learning English and French
  - ⚡ I am constantly learning new things
  - 👑 Recently i started learn algorithm
  - 🤙 I quite love travelling 
