@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Junior Developer
+## I'm a Junior Develope
 
  - 💪 I like to write code
  - 🎉 I learning English and French
@@ -13,7 +13,7 @@
 <br />
 
 
-### 📱 Connect with me:
+## 📱 Connect with me:
 
 <br />
 
@@ -25,7 +25,7 @@
 <br />
 
 
-### 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 
 <br />
 <br />
@@ -61,7 +61,7 @@ class Stack:
 <br />
 <br />
 
-### 💰 Donations
+## 💰 Donations
 - You can use this picture for donation
 [<img align="left" alt="Donat | Donat" width="22px" src="https://image.flaticon.com/icons/png/512/1048/1048384.png" />][Donat]
 
@@ -69,12 +69,16 @@ class Stack:
 <br />
 
 
-### 📈 My GitHub Stats
+## 📈 My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidRomanovizc&show_icons=true&theme=radical)
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRomanovizc&langs_count=8)
 
+
+## :scroll: Certifications
+- [HackerRank - Python Basic](https://www.hackerrank.com/certificates/dff3e36a9433)
+- [HackerRank - SQL Basic](https://www.hackerrank.com/certificates/1b20f11f2ffb)
 
 [instagram]: https://www.instagram.com/david_romanowicz/
 [vk]: https://vk.com/davidroman0v
