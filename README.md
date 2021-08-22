@@ -79,7 +79,7 @@ class Stack:
 ## :scroll: Certifications
 - [HackerRank - Python Basic](https://www.hackerrank.com/certificates/dff3e36a9433)
 - [HackerRank - SQL Basic](https://www.hackerrank.com/certificates/1b20f11f2ffb)
-
+- [HackerRank - Problem Solving](https://www.hackerrank.com/certificates/51c24d77f073)
 [instagram]: https://www.instagram.com/david_romanowicz/
 [vk]: https://vk.com/davidroman0v
 [Donat]: https://www.donationalerts.com/r/david_romanov
