@@ -20,7 +20,7 @@
 [<img align="left" alt="David | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
 [<img align="left" alt="David | VK" width="22px" src="https://image.flaticon.com/icons/png/512/145/145813.png" />][vk]
 [<img align="left" alt="David | Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />][telegram]
-[<img align="left" alt="David | Reddit" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-reddit-4.png" />][reddit]
+[<img align="left" alt="David | Reddit" width="22px" src="https://www.svgrepo.com/show/14413/reddit.svg" />][reddit]
 
 
 <br />
