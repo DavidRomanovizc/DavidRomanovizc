@@ -20,6 +20,7 @@
 [<img align="left" alt="David | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
 [<img align="left" alt="David | VK" width="22px" src="https://image.flaticon.com/icons/png/512/145/145813.png" />][vk]
 [<img align="left" alt="David | Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />][telegram]
+[<img align="left" alt="David | Reddit" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-reddit-4.png" />][reddit]
 
 
 <br />
@@ -86,3 +87,4 @@ class Stack:
 [vk]: https://vk.com/davidroman0v
 [Donat]: https://www.donationalerts.com/r/david_romanov
 [telegram]: https://t.me/troubles_dela_tete
+[reddit]: https://www.reddit.com/user/Dromanovicz
