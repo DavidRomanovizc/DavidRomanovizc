@@ -11,7 +11,7 @@
  - 🤙 I quite love travelling 
 
 <br />
-
+## [📚 My blog](https://t.me/Dromanovicz)
 
 ## 📱 Connect with me:
 
