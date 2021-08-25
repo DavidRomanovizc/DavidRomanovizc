@@ -11,7 +11,10 @@
  - 🤙 I quite love travelling 
 
 <br />
-## [📚 My blog](https://t.me/Dromanovicz)
+
+## My blog
+- [📚 My blog](https://t.me/Dromanovicz)
+<br />
 
 ## 📱 Connect with me:
 
@@ -22,9 +25,8 @@
 [<img align="left" alt="David | Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />][telegram]
 [<img align="left" alt="David | Reddit" width="22px" src="https://www.svgrepo.com/show/217774/reddit.svg" />][reddit]
 
-
 <br />
-
+<br />
 
 ## 🧰 Languages and Tools:
 
@@ -64,6 +66,7 @@ class Stack:
 
 <br />
 <br />
+<br />
 
 ## 💰 Donations
 - You can use this picture for donation
@@ -78,6 +81,8 @@ class Stack:
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRomanovizc&langs_count=8)
+
+<br />
 
 
 ## :scroll: Certifications
