@@ -12,7 +12,7 @@
 
 <br />
 
-## My blog
+## 📚 My blog
 - [📚 My blog](https://t.me/Dromanovicz)
 <br />
 
