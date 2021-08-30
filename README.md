@@ -96,5 +96,5 @@ class Stack:
 [instagram]: https://www.instagram.com/david_romanowicz/
 [vk]: https://vk.com/davidroman0v
 [Donat]: https://www.donationalerts.com/r/david_romanov
-[telegram]: https://t.me/troubles_dela_tete
+[telegram]: https://t.me/DRomanovizc
 [reddit]: https://www.reddit.com/user/Dromanovicz
