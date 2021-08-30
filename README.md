@@ -56,6 +56,7 @@ class Stack:
 <img align="left" alt="HTML5" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/html_115524.png" />
 <img align="left" alt="CSS3" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/css_115514.png" />
 <img align="left" alt="Markdown" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/md_115523.png" />
+<img align="left" alt="SASS" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/scss_115520.png" />
 
 <br /><br /><br /><br />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" />
