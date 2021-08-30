@@ -21,7 +21,7 @@
 
 <br />
 
-[<img align="left" alt="David | Instagram" width="55px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
+[<img align="left" alt="David | Instagram" width="55px" src="https://cdn.icon-icons.com/icons2/1175/PNG/512/1489615321-instagram_81933.png" />][instagram]
 [<img align="left" alt="David | VK" width="55px" src="https://image.flaticon.com/icons/png/512/145/145813.png" />][vk]
 [<img align="left" alt="David | Telegram" width="55px" src="https://cdn.icon-icons.com/icons2/1175/PNG/512/1489615327-telegram_81927.png" />][telegram]
 [<img align="left" alt="David | Reddit" width="55px" src="https://cdn.icon-icons.com/icons2/1175/PNG/512/1489615305-reddit_81918.png" />][reddit]
