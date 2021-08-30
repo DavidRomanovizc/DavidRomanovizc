@@ -51,12 +51,12 @@ class Stack:
 
 
 
-<img align="left" alt="Cpp" width="30px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/cpp_115528.png" />
-<img align="left" alt="Python" width="30px" src="https://image.flaticon.com/icons/png/512/919/919852.png" />
+<img align="left" alt="Cpp" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/cpp_115528.png" />
+<img align="left" alt="Python" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/py_115518.png" />
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/html_115524.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Markdown" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/md_115523.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Docker" width="30px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
