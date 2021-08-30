@@ -53,16 +53,16 @@ class Stack:
 
 <img align="left" alt="Cpp" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/cpp_115528.png" />
 <img align="left" alt="Python" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/py_115518.png" />
-
 <img align="left" alt="HTML5" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/html_115524.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/css_115514.png" />
 <img align="left" alt="Markdown" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/md_115523.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Docker" width="30px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
-<img align="left" alt="SQL" width="30px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
-<img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" />
-<img align="left" alt="Git" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-256.png" />
+<br /><br /><br /><br />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" />
+<img align="left" alt="Docker" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_docker_icon_129981.png" />
+<img align="left" alt="SQL" width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />
+<img align="left" alt="Git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" />
+<img align="left" alt="Git" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-256.png" />
 
 
 
