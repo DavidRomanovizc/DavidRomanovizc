@@ -41,10 +41,10 @@ from dataclasses import dataclass
 
 @dataclass
 class Stack:
-    languages: tuple = "Python", "C++",
+    languages: tuple = "Python", "C++", "R"
     databases: tuple = "PostgreSQL", "MySQL",
-    deployment: tuple = "Docker",
-    ongoing: tuple = "aiogram",
+    deployment: tuple = "Docker", "Ubuntu"
+    ongoing: tuple = "aiogram", "Qt"
     other: tuple = "web skills"
 
 ```
