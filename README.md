@@ -65,6 +65,7 @@ class Stack:
 <img align="left" alt="Git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" />
 <img align="left" alt="Git" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-256.png" />
 <img align="left" alt="Qt" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/qt_94938.png" />
+<img align="left" alt="Qt" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" />
 
 
 
