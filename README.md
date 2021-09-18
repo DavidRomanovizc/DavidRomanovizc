@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Junior Develope
+## I'm a Junior Developer
 
  - 💪 I like to write code
  - 🎉 I learning English and French
