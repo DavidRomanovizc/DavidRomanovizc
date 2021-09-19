@@ -58,6 +58,7 @@ class Stack:
 ![VCS](https://img.shields.io/badge/-versioncontrol-DBEAE4?style=for-the-badge&logo=git)
 ![HTML](https://img.shields.io/badge/-html-DBEAE4?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=CSS3)
+![Sass](https://img.shields.io/badge/-sass-DBEAE4?style=for-the-badge&logo=Sass)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-DBEAE4?style=for-the-badge&logo=DOCKER)
 ![vscode](https://img.shields.io/badge/-vscode-B988ED?style=for-the-badge&logo=visualstudiocode)
 ![linux](https://img.shields.io/badge/-linux-DBEAE4?style=for-the-badge&logo=linux)
