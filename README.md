@@ -85,9 +85,7 @@ class Stack:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidRomanovizc&show_icons=true&theme=algolia)
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRomanovizc&langs_count=8)
-
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRomanovizc&langs_count=9&theme=algolia)
 
 
 ## :scroll: Certifications
