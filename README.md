@@ -51,6 +51,7 @@ class Stack:
 
 
 ![Python](https://img.shields.io/badge/-Python-F7DA5A?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-0574EF?style=for-the-badge&logo=Cpp)
 ![Telegram](https://img.shields.io/badge/-TelegramAPI-26A6E7?style=for-the-badge&logo=telegram)
 ![Django](https://img.shields.io/badge/-Django-1ED760?style=for-the-badge&logo=django)
 ![SQL](https://img.shields.io/badge/-postgresql-0E1621?style=for-the-badge&logo=postgresql)
