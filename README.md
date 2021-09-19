@@ -1,5 +1,4 @@
-### Hi there 👋, I'm David
-
+## Hi I'm Davшв <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br />
 
 ## I'm a Junior Developer
@@ -51,12 +50,15 @@ class Stack:
 
 
 
-<img align="left" alt="Cpp" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/cpp_115528.png" />
-<img align="left" alt="Python" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/py_115518.png" />
-<img align="left" alt="HTML5" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/html_115524.png" />
-<img align="left" alt="CSS3" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/css_115514.png" />
-<img align="left" alt="Markdown" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/md_115523.png" />
-<img align="left" alt="SASS" width="50px" src="https://cdn.icon-icons.com/icons2/1822/PNG/128/scss_115520.png" />
+![Python](https://img.shields.io/badge/-Python-F7DA5A?style=for-the-badge&logo=python)
+![Telegram](https://img.shields.io/badge/-TelegramAPI-26A6E7?style=for-the-badge&logo=telegram)
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
+![SQL](https://img.shields.io/badge/-postgresql-F7F7F7?style=for-the-badge&logo=postgresql)
+![AWS](https://img.shields.io/badge/-aws-F7F7F7?style=for-the-badge&logo=Amazon)
+![VCS](https://img.shields.io/badge/-versioncontrol-F7F7F7?style=for-the-badge&logo=git)
+![HTML](https://img.shields.io/badge/-html-F7F7F7?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=CSS3)
+![DOCKER](https://img.shields.io/badge/-DOCKER-F7F7F7?style=for-the-badge&logo=DOCKER)
 
 <br /><br /><br /><br />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" />
@@ -82,10 +84,10 @@ class Stack:
 
 
 ## 📈 My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidRomanovizc&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidRomanovizc&show_icons=true&theme=algolia&border_radius=25&count_private=True&line_height=20)
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRomanovizc&langs_count=9&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRomanovizc&langs_count=9&theme=algolia&border_radius=25&count_private=True&line_height=20)
 
 
 ## :scroll: Certifications
