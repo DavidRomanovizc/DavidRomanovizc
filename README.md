@@ -1,4 +1,4 @@
-## Hi I'm Davшв <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm David <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br />
 
 ## I'm a Junior Developer
@@ -52,26 +52,19 @@ class Stack:
 
 ![Python](https://img.shields.io/badge/-Python-F7DA5A?style=for-the-badge&logo=python)
 ![Telegram](https://img.shields.io/badge/-TelegramAPI-26A6E7?style=for-the-badge&logo=telegram)
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
-![SQL](https://img.shields.io/badge/-postgresql-F7F7F7?style=for-the-badge&logo=postgresql)
-![AWS](https://img.shields.io/badge/-aws-F7F7F7?style=for-the-badge&logo=Amazon)
-![VCS](https://img.shields.io/badge/-versioncontrol-F7F7F7?style=for-the-badge&logo=git)
-![HTML](https://img.shields.io/badge/-html-F7F7F7?style=for-the-badge&logo=html5)
+![Django](https://img.shields.io/badge/-Django-1ED760?style=for-the-badge&logo=django)
+![SQL](https://img.shields.io/badge/-postgresql-0E1621?style=for-the-badge&logo=postgresql)
+![AWS](https://img.shields.io/badge/-aws-DBEAE4?style=for-the-badge&logo=Amazon)
+![VCS](https://img.shields.io/badge/-versioncontrol-DBEAE4?style=for-the-badge&logo=git)
+![HTML](https://img.shields.io/badge/-html-DBEAE4?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=CSS3)
-![DOCKER](https://img.shields.io/badge/-DOCKER-F7F7F7?style=for-the-badge&logo=DOCKER)
-
-<br /><br /><br /><br />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" />
-<img align="left" alt="Docker" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_docker_icon_129981.png" />
-<img align="left" alt="SQL" width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />
-<img align="left" alt="Git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" />
-<img align="left" alt="Git" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-256.png" />
-<img align="left" alt="Qt" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/qt_94938.png" />
-<img align="left" alt="Qt" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" />
+![DOCKER](https://img.shields.io/badge/-DOCKER-DBEAE4?style=for-the-badge&logo=DOCKER)
+![vscode](https://img.shields.io/badge/-vscode-B988ED?style=for-the-badge&logo=visualstudiocode)
+![linux](https://img.shields.io/badge/-linux-DBEAE4?style=for-the-badge&logo=linux)
+![Qt](https://img.shields.io/badge/-Qt-DBEAE4?style=for-the-badge&logo=Qt)
+![R](https://img.shields.io/badge/-R-0574EF?style=for-the-badge&logo=R)
 
 
-
-<br />
 <br />
 <br />
 
