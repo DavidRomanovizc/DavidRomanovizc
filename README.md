@@ -52,21 +52,17 @@ class Stack:
 
 ![Python](https://img.shields.io/badge/-Python-F7DA5A?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-0574EF?style=for-the-badge&logo=Cpp)
-![Telegram](https://img.shields.io/badge/-TelegramAPI-26A6E7?style=for-the-badge&logo=telegram)
 ![Django](https://img.shields.io/badge/-Django-1ED760?style=for-the-badge&logo=django)
+![Qt](https://img.shields.io/badge/-Qt-DBEAE4?style=for-the-badge&logo=Qt)
 ![SQL](https://img.shields.io/badge/-postgresql-0E1621?style=for-the-badge&logo=postgresql)
+![DOCKER](https://img.shields.io/badge/-DOCKER-DBEAE4?style=for-the-badge&logo=DOCKER)
 ![AWS](https://img.shields.io/badge/-aws-DBEAE4?style=for-the-badge&logo=Amazon)
 ![VCS](https://img.shields.io/badge/-Git-DBEAE4?style=for-the-badge&logo=git)
-![HTML](https://img.shields.io/badge/-html-DBEAE4?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=CSS3)
-![Sass](https://img.shields.io/badge/-sass-DBEAE4?style=for-the-badge&logo=Sass)
-![DOCKER](https://img.shields.io/badge/-DOCKER-DBEAE4?style=for-the-badge&logo=DOCKER)
 ![vscode](https://img.shields.io/badge/-vscode-B988ED?style=for-the-badge&logo=visualstudiocode)
 ![linux](https://img.shields.io/badge/-Ubuntu-DBEAE4?style=for-the-badge&logo=linux)
-![Qt](https://img.shields.io/badge/-Qt-DBEAE4?style=for-the-badge&logo=Qt)
-![R](https://img.shields.io/badge/-R-0574EF?style=for-the-badge&logo=R)
-
-
+![Telegram](https://img.shields.io/badge/-TelegramAPI-26A6E7?style=for-the-badge&logo=telegram)
+![HTML](https://img.shields.io/badge/-html-DBEAE4?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=CSS3)
 <br />
 <br />
 
