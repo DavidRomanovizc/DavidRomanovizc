@@ -6,7 +6,7 @@
  - 💪 I like to write code
  - 🎉 I learning English and French
  - ⚡ I am constantly learning new things
- - 👑 Recently i started learn algorithm
+ - 👑 I want to be a Data Scientist
  - 🤙 I quite love travelling 
 
 <br />
@@ -43,7 +43,7 @@ class Stack:
     languages: tuple = "Python", "C++"
     databases: tuple = "PostgreSQL", "MySQL",
     deployment: tuple = "Docker", "Ubuntu"
-    ongoing: tuple = "aiogram"
+    ongoing: tuple = "aiogram", "Django"
     other: tuple = "web skills"
 
 ```
