@@ -43,7 +43,7 @@ class Stack:
     languages: tuple = "Python", "C++"
     databases: tuple = "PostgreSQL", "MySQL",
     deployment: tuple = "Docker", "Ubuntu"
-    ongoing: tuple = "aiogram", "Django"
+    ongoing: tuple = "aiogram"
     other: tuple = "web skills"
 
 ```
@@ -52,7 +52,6 @@ class Stack:
 
 ![Python](https://img.shields.io/badge/-Python-F7DA5A?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-0574EF?style=for-the-badge&logo=Cpp)
-![Django](https://img.shields.io/badge/-Django-1ED760?style=for-the-badge&logo=django)
 ![SQL](https://img.shields.io/badge/-postgresql-0E1621?style=for-the-badge&logo=postgresql)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-DBEAE4?style=for-the-badge&logo=DOCKER)
 ![AWS](https://img.shields.io/badge/-aws-DBEAE4?style=for-the-badge&logo=Amazon)
