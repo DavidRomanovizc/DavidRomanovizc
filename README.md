@@ -42,9 +42,8 @@ from dataclasses import dataclass
 class Stack:
     languages: tuple = "Python", "C++"
     databases: tuple = "PostgreSQL", "MySQL",
-    deployment: tuple = "Docker", "Ubuntu"
+    deployment: tuple = "Docker", "Ubuntu", "aws"
     ongoing: tuple = "aiogram"
-    other: tuple = "web skills"
 
 ```
 
