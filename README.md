@@ -4,7 +4,7 @@
 ## I'm a Junior Developer
 
  - 💪 I like to write code
- - 🎉 I learning English and French
+ - 🎉 I am learning English and French
  - ⚡ I am constantly learning new things
  - 👑 I want to be a Data Scientist
  - 🤙 I quite love travelling 
