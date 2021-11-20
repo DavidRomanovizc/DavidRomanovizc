@@ -58,8 +58,10 @@ class Stack:
 ![vscode](https://img.shields.io/badge/-vscode-B988ED?style=for-the-badge&logo=visualstudiocode)
 ![linux](https://img.shields.io/badge/-Ubuntu-DBEAE4?style=for-the-badge&logo=linux)
 ![Telegram](https://img.shields.io/badge/-TelegramAPI-26A6E7?style=for-the-badge&logo=telegram)
+![Tartiflette](https://img.shields.io/badge/-Tartiflette-52B5B5?style=for-the-badge&logo=GraphQL)
 ![HTML](https://img.shields.io/badge/-html-DBEAE4?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=CSS3)
+
 <br />
 <br />
 
