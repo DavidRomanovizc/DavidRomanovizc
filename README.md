@@ -20,9 +20,7 @@
 
 <br />
 
-[<img align="left" alt="David | Instagram" width="55px" src="https://cdn.icon-icons.com/icons2/1175/PNG/512/1489615321-instagram_81933.png" />][instagram]
 [<img align="left" alt="David | Telegram" width="55px" src="https://cdn.icon-icons.com/icons2/1175/PNG/512/1489615327-telegram_81927.png" />][telegram]
-[<img align="left" alt="David | Reddit" width="55px" src="https://cdn.icon-icons.com/icons2/1175/PNG/512/1489615305-reddit_81918.png" />][reddit]
 
 <br />
 
@@ -82,7 +80,5 @@ class Stack:
 - [HackerRank - Problem Solving](https://www.hackerrank.com/certificates/51c24d77f073)
 
 
-[instagram]: https://www.instagram.com/david_romanowicz/
 [Donat]: https://www.donationalerts.com/r/david_romanov
 [telegram]: https://t.me/DRomanovizc
-[reddit]: https://www.reddit.com/user/Dromanovicz
