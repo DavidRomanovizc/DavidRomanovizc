@@ -16,16 +16,6 @@
 <br />
 
 
-## 📱 Connect with me:
-
-<br />
-
-[<img align="left" alt="David | Telegram" width="55px" src="https://cdn.icon-icons.com/icons2/1175/PNG/512/1489615327-telegram_81927.png" />][telegram]
-
-<br />
-
-<br />
-
 ## 🧰 Languages and Tools:
 
 <br />
