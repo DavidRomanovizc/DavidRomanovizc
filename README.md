@@ -8,7 +8,7 @@
  - ⚡ I am constantly learning something new
  - 🤙 I quite love travelling 
 
-- [📚 My blog](https://t.me/Dromanovicz)
+
 <br />
 
 
