@@ -26,7 +26,7 @@ class Stack:
     languages: tuple = "Python", "C++", "Go"
     databases: tuple = "PostgreSQL", "MySQL"
     deployment: tuple = "Docker", "Ubuntu", "aws"
-    ongoing: tuple = "aiogram", "telegram-bot-api"
+    ongoing: tuple = "aiogram"
 
 ```
 
