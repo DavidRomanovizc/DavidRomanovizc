@@ -4,21 +4,17 @@
 ## I'm a Junior Developer
 
  - 💪 I like to write code
- - 🎉 I am studying foreign languages
- - ⚡ I am constantly learning new things
- - 👑 I want to be a Data Scientist
+ - 🎉 I study foreign languages
+ - ⚡ I am constantly learning something new
  - 🤙 I quite love travelling 
 
-<br />
-
-## 📚 My blog
 - [📚 My blog](https://t.me/Dromanovicz)
 <br />
 
 
 ## 🧰 Languages and Tools:
 
-<br />
+
 <br />
 
 ```python
@@ -27,10 +23,10 @@ from dataclasses import dataclass
 
 @dataclass
 class Stack:
-    languages: tuple = "Python", "C++"
-    databases: tuple = "PostgreSQL", "MySQL",
+    languages: tuple = "Python", "C++", "Go"
+    databases: tuple = "PostgreSQL", "MySQL"
     deployment: tuple = "Docker", "Ubuntu", "aws"
-    ongoing: tuple = "aiogram"
+    ongoing: tuple = "aiogram", "telegram-bot-api"
 
 ```
 
@@ -38,13 +34,14 @@ class Stack:
 
 ![Python](https://img.shields.io/badge/-Python-F7DA5A?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-0574EF?style=for-the-badge&logo=Cpp)
+![Go](https://img.shields.io/badge/-Go-FFFFFF?style=for-the-badge&logo=Go)
 ![SQL](https://img.shields.io/badge/-postgresql-0E1621?style=for-the-badge&logo=postgresql)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-DBEAE4?style=for-the-badge&logo=DOCKER)
 ![AWS](https://img.shields.io/badge/-aws-DBEAE4?style=for-the-badge&logo=Amazon)
 ![VCS](https://img.shields.io/badge/-Git-DBEAE4?style=for-the-badge&logo=git)
 ![vscode](https://img.shields.io/badge/-vscode-B988ED?style=for-the-badge&logo=visualstudiocode)
 ![linux](https://img.shields.io/badge/-Ubuntu-DBEAE4?style=for-the-badge&logo=linux)
-![Telegram](https://img.shields.io/badge/-TelegramAPI-26A6E7?style=for-the-badge&logo=telegram)
+![aiogram](https://img.shields.io/badge/-aiogram-26A6E7?style=for-the-badge&logo=aiogram)
 
 <br />
 <br />
