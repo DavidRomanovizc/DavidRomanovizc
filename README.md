@@ -63,6 +63,7 @@ class Stack:
 
 ## :scroll: Certifications
 - [HackerRank - Python Basic](https://www.hackerrank.com/certificates/dff3e36a9433)
+- [HackerRank - Go Basic](https://www.hackerrank.com/certificates/c4007801cb8b)
 - [HackerRank - SQL Basic](https://www.hackerrank.com/certificates/1b20f11f2ffb)
 - [HackerRank - Problem Solving](https://www.hackerrank.com/certificates/51c24d77f073)
 
